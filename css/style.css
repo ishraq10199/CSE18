@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
+@font-face {
+    font-family: 'black_jackregular';
+    src: url('../fonts/blackjack-webfont.ttf');
+    font-weight: bold;
+        
+
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
+}
+
+.blackJackify{
+    font-family: 'black_jackregular';
 }
